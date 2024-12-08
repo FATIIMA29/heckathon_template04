@@ -1,4 +1,5 @@
-Project Purpose
+Project Purpose:
+
 The purpose of this project is to develop a fully responsive e-commerce website using Next.js, Tailwind CSS, and React. The website is designed to provide a seamless shopping experience with key features such as a homepage, product listings, blog, cart, and customer support. It also includes essential sections like a user-friendly footer with categories, customer care, and social media integration.
 
 This project aims to offer a modern and responsive design, providing users with an easy navigation experience and a visually appealing interface on both mobile and desktop devices.
