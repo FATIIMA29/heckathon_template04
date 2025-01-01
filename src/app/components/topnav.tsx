@@ -36,7 +36,10 @@ const topnav = () => {
         Wishlist <FaRegHeart className="mx-1 mt-1" height={16} width={16} />
       </div>
       <div className="flex items-center justify-between mx-4">
+        <Link href='/shopping_cart'>
         <BsCart height={16} width={16} className="mx-1 mt-1" />
+        </Link>
+        
       </div>
     </div>
   </div>
